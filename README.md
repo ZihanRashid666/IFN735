@@ -8,6 +8,7 @@
 | Sharath Badrinath | Data Specialist |
 | Hitesh | Backend Support |
 | Augustin Robins | Team Support |
+| Zihan Rashid | QA Testing |
 
 ---
 
